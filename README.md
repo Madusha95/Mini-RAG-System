@@ -8,7 +8,7 @@ This implementation features a clean, object-oriented design that enforces stric
 
 # 🛠️ Tech Stack & Architecture
 
-* **LLM Engine:** Azure Chat OpenAI (`gpt-5.4` / `gpt-4o-mini`)
+* **LLM Engine:** Azure Chat OpenAI (`gpt-5.4`)
 * **Embedding Model:** Azure OpenAI Embeddings (`text-embedding-3-small`)
 * **Vector Database:** ChromaDB (Persistent Local Storage)
 * **Framework:** LangChain (`langchain-openai`, `langchain-chroma`, `langchain-core`)
