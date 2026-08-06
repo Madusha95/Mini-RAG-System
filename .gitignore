@@ -1,0 +1,14 @@
+# Sensitive keys
+.env
+
+# Python Virtual Environments
+.venv
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Vector Store Storage (if persisted later)
+chroma_db/
